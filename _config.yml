@@ -9,8 +9,8 @@ github: https://github.com/doubleiH/doubleih.github.io.git
 baseurl: ""
 description:
 meta_description:
-motto: 嘿,编译通过了!装包吧!
-banner: 优秀的判断力来自经验，但经验来自于错误的判断。
+motto: 优秀的判断力来自经验，但经验来自于错误的判断。
+banner: 嘿,编译通过了!装包吧!
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
