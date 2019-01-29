@@ -1,5 +1,5 @@
 # Site settings
-name: Doublei的工作笔记
+name: doublei
 email: lrh0817@163.com
 author: doublei
 url:  "https://doubleih.github.io"
@@ -9,17 +9,15 @@ github: https://github.com/doubleiH/doubleih.github.io.git
 baseurl: ""
 description:
 meta_description:
+#座右铭
 motto: 优秀的判断力来自经验，但经验来自于错误的判断。
+# 横幅，标题
 banner: 嘿,编译通过了!装包吧!
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
-
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
-
 github_username: doubleih
-
 # Build settings
 markdown: kramdown
-
 baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
