@@ -3,6 +3,7 @@ name: doublei
 email:
 author: doublei
 url:  "https://doubleih.github.io"
+# resume_site：跳转作者简介界面
 resume_site:
 github: https://github.com/doubleiH/doubleih.github.io.git
 baseurl: ""
