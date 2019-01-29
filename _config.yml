@@ -1,6 +1,6 @@
 # Site settings
 name: Doublei的工作笔记
-email:
+email: lrh0817@163.com
 author: doublei
 url:  "https://doubleih.github.io"
 # resume_site：跳转作者简介界面
@@ -8,9 +8,9 @@ resume_site:
 github: https://github.com/doubleiH/doubleih.github.io.git
 baseurl: ""
 description:
-meta_description: doublei;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+meta_description:
+motto: 嘿,编译通过了!装包吧!
+banner: 优秀的判断力来自经验，但经验来自于错误的判断。
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
