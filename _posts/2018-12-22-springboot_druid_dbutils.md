@@ -2,13 +2,15 @@
 layout: post
 title:  spring boot 整合druid
 date:   2018-12-22 00:00:00 +0800
-categories:
-tag: 最近一直工作中突然要用到P端交易实时监控，所以正好记录下碰到的问题
+categories: spring boot,druid
+tag:  druid,dbutils
+excerpt: 最近一直工作中突然要用到P端交易实时监控，所以正好记录下碰到的问题
 ---
 
 
 * content
 {:toc}
+
 
 ---------------------------------
 需要实现的功能其实是比较简单的，就是在C端交易，通过P端转发，当该笔交易完成之后，P端进行数据库记录，并实时显示在银行监控端。
