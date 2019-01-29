@@ -3,7 +3,7 @@ layout: post
 title:  linux 环境下导出db2数据出现的一些问题
 date:   2019-1-19 00:00:00 +0800
 categories: linux
-tag:  db2move
+tag:  db2
 excerpt: 由于行方提供的测试环境数据库默认设置编码格式为UTF-8,导致在导出数据时出现db2move.lst文件为空
 ---
 
