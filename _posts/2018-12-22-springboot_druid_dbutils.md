@@ -2,7 +2,7 @@
 layout: post
 title:  spring boot 整合druid
 date:   2018-12-22 00:00:00 +0800
-categories: spring boot,druid
+categories: spring_boot 
 tag:  druid,dbutils
 excerpt: 最近一直工作中突然要用到P端交易实时监控，所以正好记录下碰到的问题
 ---
