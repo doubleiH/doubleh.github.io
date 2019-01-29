@@ -70,7 +70,7 @@ tag: 教程
 
 显示图片的正确方式
 ------------------------------------
-![下载core下zip包]({{ '/styles/images/2019-1-28-tomcat 安装-78bcb9c6.png'| prepend: site.baseurl  }})
+![文字提示]({{ '/styles/images/xxx.png'| prepend: site.baseurl  }})
 
 
 执行
